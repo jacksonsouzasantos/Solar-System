@@ -19,11 +19,6 @@
   <h3 align="center">Solar-System</h3>
 </div>
 
-### visite o projeto em:
-
-[Solar System](https://jacksonsouzasantos.github.io/Solar-System/) 
-
-
 <!-- Sobre o Projeto -->
 
 ## 💻 Sobre o Projeto 
