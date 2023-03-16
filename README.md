@@ -19,6 +19,8 @@
   <h3 align="center">Solar-System</h3>
 </div>
 
+![alt text](src/images/solarSystemMovie.gif)
+
 <!-- Sobre o Projeto -->
 
 ## 💻 Sobre o Projeto 
