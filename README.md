@@ -16,10 +16,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Solar-System</h3>
+  <h3 align="center">Solar-System</h3> </br>
+  
+  ![alt text](src/images/solarSystemMovie.gif)
 </div>
 
-![alt text](src/images/solarSystemMovie.gif)
+
 
 <!-- Sobre o Projeto -->
 
