@@ -12,15 +12,17 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 </div>
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Solar-System</h3> </br>
+  <h3 align="center">Projeto Solar-System</h3> </br>
   
   ![alt text](src/images/solarSystemMovie.gif)
 </div>
 
+### visite o projeto em:
+
+Solar System: https://solar-system-eta.vercel.app/
 
 
 <!-- Sobre o Projeto -->
