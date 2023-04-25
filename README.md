@@ -30,8 +30,8 @@ Solar System: https://solar-system-eta.vercel.app/
 ## 💻 Sobre o Projeto 
 
 Projeto da [Trybe](https://www.betrybe.com/)- Front-End- Seção 7- Dia 3.</br>
-A proposta foi desenvolver um aplicação que exibe-se o Sistema Solar e Viagens Espaciais utilizando o React.</br>
-Além de visualizar os planetas do sistema solar, também exibe cards com as informações sobre missões espaciais.
+A proposta foi desenvolver um aplicação que exibe-se o sistema solar e as viagens espaciais utilizando o React. </br>
+Além de visualizar os planetas do sistema solar. Também exibe cards com as informações sobre missões espaciais.
 
 
 
